@@ -331,6 +331,7 @@
 | ios font：IOS 字体支持查询和 IOS 系统自带字体查询 | [http://iosfonts.com/](http://iosfonts.com/) |
 | web 安全色：尽量让用户看到色彩相同的网页，请尽量使用 216 色的 web 安全色 | [https://www.bootcss.com/p/websafecolors/](https://www.bootcss.com/p/websafecolors/) |
 | TinyPNG：PNG/JPG 图片在线压缩利器，智能 PNG 和 JPEG 图片压缩 | [https://tinypng.com/](https://tinypng.com/) |
+| Practical Web Tools：1,400+ 免费浏览器工具（PDF 编辑/转换、图片/音频转换、200+ 计算器），全部本地处理无需上传 | [https://practicalwebtools.com/](https://practicalwebtools.com/) |
 | 二维码生成器：草料二维码生成器 | [https://cli.im/](https://cli.im/) |
 | Shape Divider：定制各种形状的网站分区 SVG 的工具 | [https://www.shapedivider.app/](https://www.shapedivider.app/) |
 | json 格式化： json 在线解析的网站 | [http://json.cn/](http://json.cn/) |
